@@ -6,8 +6,8 @@
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 9000
+          "Host": "c_contact_api",
+          "Port": 44390
         }
       ],
       "UpstreamPathTemplate": "/c/{id}",
